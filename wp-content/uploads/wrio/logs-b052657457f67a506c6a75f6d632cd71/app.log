@@ -1,0 +1,12 @@
+
+13-05-2019 06:14:05.1557728045.9799 [::1][5cd90b][info] Start plugin migration < 1.1.5
+13-05-2019 06:14:06.1557728046.0139 [::1][5cd90b][info] Plugin migration was successfull!
+13-05-2019 06:14:06.1557728046.0159 [::1][5cd90b][info] Start plugin migration < 1.3.0
+13-05-2019 06:14:08.1557728048.3441 [::1][5cd90b][info] Plugin migration was successfull!
+13-05-2019 06:14:08.1557728048.3461 [::1][5cd90b][info] Start plugin migration < 1.3.6
+13-05-2019 06:14:08.1557728048.3461 [::1][5cd90b][info] Plugin migration was successfull!
+13-05-2019 06:14:08.1557728048.4391 [::1][5cd90b][info] Parent plugin start installation!
+13-05-2019 06:14:08.1557728048.5051 [::1][5cd90b][info] Parent plugin installation complete!
+13-05-2019 06:14:59.1557728099.801 [::1][5cd90b][info] Try to create backup directory. Backup dir: (C:/xampp/htdocs/wp-ci/wp-content/uploads/wio_backup)
+13-05-2019 06:15:07.1557728107.6795 [::1][5cd90b][info] Start bulk optimization process! Scope: media-library
+13-05-2019 06:15:07.1557728107.7575 [::1][5cd90b][info] End bulk optimization process! Scope: media-library. Remain: 0
